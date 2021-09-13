@@ -1,0 +1,11 @@
+.mega input{
+    font-size: 1.4rem;
+    width: 50px;
+}
+
+.mega button{
+    font-size: 1.4rem;
+    margin-top: 15px;
+    background-color: blue;
+    color: white;
+}
